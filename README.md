@@ -24,3 +24,4 @@ Based on the project's statement, create a PDF file containing the technical des
 > [!note]
 > Proiectul C++ nu permite folosirea introducerii datelor de la tastatură (deci std::cin sau variațiuniile nu sunt permise, folosiți argumente pe linia de comandă). <br/>
 > Aveți nevoie ca cel puțin două clase să se afle într-o relație (moștenire, asociere, compoziție, agregare).
+> 
